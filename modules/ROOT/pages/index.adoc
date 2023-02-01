@@ -1,0 +1,9 @@
+= Astronomical Evidence
+
+Testing br-astrom module
+
+.Testing a note
+[NOTE]
+====
+This is a notice about a specific scientific assumption!
+====
